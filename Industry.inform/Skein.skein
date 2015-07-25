@@ -1,0 +1,3640 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x270db0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x270db0" />
+  <item nodeId="node-0x270db0">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+Woah.
+
+You&apos;re dead. You have to be.
+
+Fifty-one hours and an eyeblink ago you stood in front of a crowd of fifty-thousand outside the Gas Temple and made it clear that nobody was going to break you, your company, your shareholders, or the spirit of a people.
+
+A minute later, you were assassinated.
+
+At least, that&apos;s how it was supposed to go. You&apos;re supposed to be dead. Buried under a mountain of gray California dirt. So why does it feel like you&apos;re still alive?
+
+Industry
+An Interactive Fiction by Charles Cox
+Release 1 / Serial number 110508 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+
+Forty-Fourth Floor Staircase
+You are against the wall of a concrete staircase, cold and pourous. Through red emergency lighting, you can see a large stenciled number on the wall, indicating the forty-fourth floor. Somewhere, drifting in the echo of the concrete, you can hear the muffled sounds of fireworks, celebrating Armistice Day.
+
+The stairs that lead up terminate at a concrete support, in which an entryway is just barely visible. Downward, the staircase leads into a dark black fog.
+
+A handrail twists down the near edge of the staircase.
+
+There is a fire locker on the wall.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="93">NO</temporary>
+    <children>
+      <child nodeId="node-0x272af0" />
+      <child nodeId="node-0x2729a0" />
+      <child nodeId="node-0x271970" />
+      <child nodeId="node-0x270e50" />
+    </children>
+  </item>
+  <item nodeId="node-0x270e50">
+    <command xml:space="preserve">look at locker</command>
+    <result xml:space="preserve">The locker sits just under the numbers on the wall.
+
+Aha! The locker looks sheared off a bit on one edge, the resultant hole revealing a glint of metal inside. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x270ec0" />
+    </children>
+  </item>
+  <item nodeId="node-0x270ec0">
+    <command xml:space="preserve">open shear</command>
+    <result xml:space="preserve">You pull the rest of the metal away from the shear to make an opening - you&apos;re pretty sure your hand can reach the lock from the inside now.
+
+You open the fire locker, revealing an extinguisher and a fire hose.
+
+You feel a pain in your left leg.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x270f30" />
+    </children>
+  </item>
+  <item nodeId="node-0x270f30">
+    <command xml:space="preserve">get extinguisher</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x270fe0" />
+    </children>
+  </item>
+  <item nodeId="node-0x270fe0">
+    <command xml:space="preserve">get hose</command>
+    <result xml:space="preserve">You yank on the hose, spinning it off the spool.
+
+Taken.
+
+You&apos;re growing increasingly aware of the pain in your left leg.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x232bc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x232bc0">
+    <command xml:space="preserve">attack handrail with extinguisher</command>
+    <result xml:space="preserve">You raise up the extinguisher and bring it down hard on the handrail.
+
+You hear the wood crack and give a little.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x232c30" />
+    </children>
+  </item>
+  <item nodeId="node-0x232c30">
+    <command xml:space="preserve">attack handrail with extinguisher</command>
+    <result xml:space="preserve">You raise up the extinguisher again, groaning with the effort, and bring it down on the rail.
+
+The wooden rail gives out a loud report. You can see an ugly crack forming lengthwise along the grain of the wood.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x232d20" />
+    </children>
+  </item>
+  <item nodeId="node-0x232d20">
+    <command xml:space="preserve">attack handrail with extinguisher</command>
+    <result xml:space="preserve">You can barely lift up the extinguisher for a third time. With shaking arms, you raise it up and bring it down on the rail as hard as you can.
+
+With a lound bang, everything goes white.
+
+You are covered in aqueous foam. The extinguisher has shot off somewhere down into the lower floors, no doubt self-propelled by the foam that&apos;s now pouring out of it at high velocity.
+
+But, the job has been done - you notice that the handrail has split and left a long slat within reach.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x232d70" />
+    </children>
+  </item>
+  <item nodeId="node-0x232d70">
+    <command xml:space="preserve">get slat</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x232dc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x232dc0">
+    <command xml:space="preserve">fix leg with slat</command>
+    <result xml:space="preserve">This just might work - you put the slat against your leg, locking your knee in place.
+
+ While holding it down, you wrap the fire hose around your leg and the slat. It hurts - you can already see blood oozing out from the flaps of the hose.
+
+ You manage to get the wraps all the way around. You can&apos;t find anywhere to fit the nozzle - it drapes clumsily from your leg - but otherwise it&apos;s not a bad job. You&apos;re standing, at least: wobbly, but standing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x232e30" />
+    </children>
+  </item>
+  <item nodeId="node-0x232e30">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">You fix your sights on the ten steps in front of you between here and the door - you realize the only way you&apos;re going to make it is to charge the stairs before your makeshift splint gives out. You take a breath, and go.
+
+Forty-Fifth Floor Breezeway
+As you crash the fire door at the top of the stairs, you are hit by an autumn squall - you&apos;ve made it out of the building onto a breezeway, and the wind up here is at storm velocity. The breezeway is a high modern arch, cresting over a series of transmission spikes glowing a dull red against the driving rain. It extends north toward a small observation annex.
+
+Through the dark gray trunks of concrete on the breezeway, you can see far-flung fireworks exploding in the distance over the city.
+
+A door leads back down to the staircase landing on the forty-fourth floor.
+
+ A service gate marked by a sign is to the east and looks to lead underneath the breezeway structure.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22f980" />
+    </children>
+  </item>
+  <item nodeId="node-0x22f980">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Forty-Fifth Floor Breezeway
+The breezeway is a high modern arch, cresting over a series of transmission spikes glowing a dull red against the driving rain. It extends north toward a small observation annex.
+
+Through the dark gray trunks of concrete on the breezeway, you can see far-flung fireworks exploding in the distance over the city.
+
+A door leads back down to the staircase landing on the forty-fourth floor.
+
+ A service gate marked by a sign is to the east and looks to lead underneath the breezeway structure.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22fa90" />
+    </children>
+  </item>
+  <item nodeId="node-0x22fa90">
+    <command xml:space="preserve">down</command>
+    <result xml:space="preserve">You look at the staircase leading back down to the landing, and your splinted leg throbs in sympathetic pain, oozing another blot of blood onto your bandage. The pain and the blood convince you that more vertical movement is too risky right now.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x232cc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x232cc0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Observation Annex
+The observation annex of the Bastille Building is a mollusk-like protrusion off the north end of the building, comprising a large, coif-like curved wind scoop and an offset crescentform ledge where you stand now, looking out over the city, sheltered from the wind and rain by a glass shield.
+
+You can see your reflection in a small but polished plaque that is mounted on the observation shield. Something is odd about your reflection.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22fb00" />
+    </children>
+  </item>
+  <item nodeId="node-0x22fb00">
+    <command xml:space="preserve">look at reflection</command>
+    <result xml:space="preserve">You approach the glass wall that separates you from the city, hoping to get a glimpse of yourself - something more than your clothes and your hands - in the plaque that is affixed there.
+
+You stop short.
+
+Something is wrong with your face.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22eeb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22eeb0">
+    <command xml:space="preserve">look at face</command>
+    <result xml:space="preserve">As you inch up to the glass to see yourself better, you get a twisting feeling in your stomach - instead of a familiar blue and white eyeball staring back at you from the right side of your face, there&apos;s only a hollow, ink-black pit.
+
+Your right eye is gone. It is completely gone. Not even a trickle of blood traces back to the hole.
+
+You stumble, faint and dead-sick at the sight. They&apos;ve taken your eye - someone carved it out of your head. As your remaining eye focuses on the plaque:
+
+BASTILLE BUILDING CA. 2121
+&quot;PLANT, AND REAP THE BOUNTY OF EARTH&quot;
+COMMITTED TO US THIS ARMISTICE DAY BY:
+
+You realize that your name is inscribed below.
+
+This was your building, those many years ago.
+
+So many years ago.
+
+You fall to the concrete in pain and shock.
+
+Somewhere out there, you can hear more fireworks exploding against the cityscape as the world fades, being sucked down through the hole where your eye used to be, draining into your brain...
+
+
+Superego
+It&apos;s cold here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22ef20" />
+    </children>
+  </item>
+  <item nodeId="node-0x22ef20">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t. You don&apos;t have the strength right now.
+
+...life always looked like a straight line - especially back when they looked at the City of Industry and they saw salvation...
+ ...then came the day the world split into two choices; you realized there were people with more at stake than you anticipated...
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22ef90" />
+    </children>
+  </item>
+  <item nodeId="node-0x22ef90">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t. You don&apos;t have the strength right now.
+
+...everybody knew you - everybody loved you - everybody asked for your opinion, your consideration in reforming the Industry, the new Economy...
+ ...and still they came. At first, you placated them; treated them like any other interested party wanting a handout; a cop at a border crossing...
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22f000" />
+    </children>
+  </item>
+  <item nodeId="node-0x22f000">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t. You don&apos;t have the strength right now.
+
+...but they were unlike anyone you had ever met. They simply refused to melt into the rest of the Industry fog...
+ ...their words started to feel like your words, yours like theirs, and what you could only forecast, they seemed to know...
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22f070" />
+    </children>
+  </item>
+  <item nodeId="node-0x22f070">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t. You don&apos;t have the strength right now.
+
+...but you had the last act already written...
+...how could they do this to you?
+
+Departure Lounge
+People surround you; hurried, frayed, fast. Glass and steel beamwork cross in sweeping orbits around a large curved window that looks out over a greenbelted cityscape. The smell of hastily-fried foods mixed with heavy coffees. Black leather chairs embossed with friendly ORBGROUP logos line the main thoroughfare; white tile floors cut by vanishing-point aluminum slices extend on to the west and east until they curve out of sight. To your south is Gate Six.
+
+There is a suited man here, busy on his phone.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22f9d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22f9d0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Departure Lounge West
+The colors grow increasingly more saturated here in the west end of the departure lounge. The stark whites and metallic tones grow whimsical, with red paneling and green accents on the walls, flowing like tendrils out of the food court to the north. You can see the rest of the departure lounge concourse to the east, and Gate Five is to the south.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22fa20" />
+    </children>
+  </item>
+  <item nodeId="node-0x22fa20">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Departure Lounge
+There is a suited man here, busy on his phone.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22f260" />
+    </children>
+  </item>
+  <item nodeId="node-0x22f260">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Departure Lounge West
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22f2d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22f2d0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Departure Lounge
+There is a suited man here, busy on his phone.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22f340" />
+    </children>
+  </item>
+  <item nodeId="node-0x22f340">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Departure Lounge West
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22f3b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22f3b0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Departure Lounge
+There is a suited man here, busy on his phone.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22f420" />
+    </children>
+  </item>
+  <item nodeId="node-0x22f420">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Departure Lounge West
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22f490" />
+    </children>
+  </item>
+  <item nodeId="node-0x22f490">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Departure Lounge
+There is a suited man here, busy on his phone.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22e280" />
+    </children>
+  </item>
+  <item nodeId="node-0x22e280">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Departure Lounge East
+The East lounge terminates in a spheroid droplet sculpture molded into the flesh of the building, casting a warped and eerie light from a bright, early morning onto the tile below your feet. The travelers that wait here seem anxious, strained for something, wearing unfocused expressions and slack ties. The rest of the lounge is back to your west. To your south is Gate Seven. A security monitor station is to the north.
+
+A departure board hangs from the ceiling. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22e2f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22e2f0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22e360" />
+    </children>
+  </item>
+  <item nodeId="node-0x22e360">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Departure Lounge
+There is a suited man here, busy on his phone.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22e3d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22e3d0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Departure Lounge West
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22e440" />
+    </children>
+  </item>
+  <item nodeId="node-0x22e440">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22e5d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22e5d0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Departure Lounge
+There is a suited man here, busy on his phone.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22f0e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22f0e0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Departure Lounge East
+A departure board hangs from the ceiling. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22f150" />
+    </children>
+  </item>
+  <item nodeId="node-0x22f150">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Departure Lounge
+There is a suited man here, busy on his phone.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22f1c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22f1c0">
+    <command xml:space="preserve">open envelope</command>
+    <result xml:space="preserve">You open the envelope, revealing a ticket and a letter.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22ba60" />
+    </children>
+  </item>
+  <item nodeId="node-0x22ba60">
+    <command xml:space="preserve">take ticket</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22bad0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22bad0">
+    <command xml:space="preserve">read letter</command>
+    <result xml:space="preserve">The letter is a typed memo with the letterhead of a company: LogoS. You know them well, and their President, Jonathan French.
+
+
+It is his signature that completes the following letter:
+
+
+My Friend - 
+
+
+Rare in my experience is a man who faces a set of circumstances such as you face now.
+
+
+If you don&apos;t yet understand, you can trust me at least to help you see more clearly; LogoS is nothing if not the first to know in matters relational, and you can be assured: we know who mutilated you, who is to be blamed for your near-death in the City of Industry.
+
+
+Understand, though: information cuts both ways, and we know the ruse you were playing as part of your Gas Temple campaign. Your deception was interrupted, and while not entirely exposed, your intentions were made clear to a few. We therefore know something about you, as well as your assailants.
+
+
+To be sure, this would indicate two markers of advantage to us and none to you, but as I hinted earlier, your circumstances are exceptional. There is a service you can do for us, and to that end, you have received both an expedient exfiltration from the City, far enough away to hide our tracks, and as much medical care as we could administer enroute, so that you may be well enough to join us at our corporate center in Alexandria.
+
+
+You have the necessary ticket for a suborbital flight on your person and my very best wishes for a safe and expedient trip up and over. Certainly, if you choose not to hear us out, we can&apos;t be blamed for any leakages of your personal affront to your own shareholders, let alone the law. Acher and The Priests may be old and slow, but a disgruntled market will shoulder them along to your door without much delay.
+
+
+I add only that though our efforts have been both expedient and clandestine, there will be others with much at stake asking your whereabouts, and who may be in your midst now despite our precautions. If you are to act, be swift. You are by no means out of danger yet.
+
+
+I remain yours very truly,
+
+
+Jonathan French
+President, LogoS Board of Directors
+
+
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22bb40" />
+    </children>
+  </item>
+  <item nodeId="node-0x22bb40">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Departure Lounge West
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22bbb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22bbb0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Departure Lounge
+There is a suited man here, busy on his phone.
+
+A low rumbling from somewhere outside draws your attention to the south windows of the departure lounge. You watch through the glass, and through and a haze of precautionary fire retardant glowing red from emergency lighting.
+
+ A large mesh hoop is being drawn up to a forty-five degree angle out on the tarmac.
+
+ The rumble grows, expands, splitting the air, layer after layer of fracturing, crackling screams. You see some of the travelers opening their mouths, stuffing their earphones deeper in their ears.
+
+ The windows flex, pulse, vibrate. The sound grows unbearably loud - in an instant, there is a final whipcrack and the hoop is flexed to bursting, cradling a steaming, charred dart the size of a school bus.
+
+ A voice comes over the lounge intercom: &quot;Whitmore Executive announces the arrival of flight 2A2, with service to Alexandria, Virginia, United States. This flight is now boarding at Gate Six.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22bc20" />
+    </children>
+  </item>
+  <item nodeId="node-0x22bc20">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Departure Lounge West
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22bc90" />
+    </children>
+  </item>
+  <item nodeId="node-0x22bc90">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22bd00" />
+    </children>
+  </item>
+  <item nodeId="node-0x22bd00">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Departure Lounge
+There is a suited man here, busy on his phone.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22bd70" />
+    </children>
+  </item>
+  <item nodeId="node-0x22bd70">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Gate 6
+Gate Six is empty in comparison to the other two gates. Either a flight just departed from this gate or nobody is interested in the next flight. The window has a view of the tarmac, where you can see ground crews scurrying about, readying for an arrival or a departure. Gate Five is to the west, Gate Seven to the east, and the departure lounge is to the north. The jetdoor blocks access to a jet bridge to the south.
+
+You can see a jetdoor, an ORBGROUP gate agent and a pass reader (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22bde0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22bde0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Gate 7
+This gate, lit in wide, langorous strips by the refracted sunlight through the droplet carved into the East lounge, is filled with haggard business travelers, many of whom have resigned themselves to a long wait, as evidenced by rolled-up sleeves, loosened ties, and half-full cups of coffee stacked within emptied cups, a stack for each traveler. The ORBGROUP ticketing station is unmanned, and the gate&apos;s jetdoor indicator glows a solid, lazy red. The departure lounge is back to the north. Gate Six is to the west.
+
+You see a man working on a laptop.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22be50" />
+    </children>
+  </item>
+  <item nodeId="node-0x22be50">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Gate 6
+You can see a jetdoor, an ORBGROUP gate agent and a pass reader (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22bec0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22bec0">
+    <command xml:space="preserve">talk to agent</command>
+    <result xml:space="preserve">The agent looks at you, trying to gauge something.
+ &quot;Are you our last passenger? We&apos;ve been calling you. Ticket, please.&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22bf30" />
+    </children>
+  </item>
+  <item nodeId="node-0x22bf30">
+    <command xml:space="preserve">give ticket to agent</command>
+    <result xml:space="preserve">You hand over your ticket to the agent, who takes it as you pass through a bioscanner. You see a red light go on above your head and a hand stops you from going any further, resting firmly against your chest.
+
+ &quot;Sir,&quot; the agent says at last, with a measured, slow voice, removing his hand, &quot;Your right eye is a prosthetic, isn&apos;t it?&quot;
+
+ &quot;I - &quot; you manage, your hand edging up toward your face in embarassed reflex.
+
+ &quot;We&apos;re required to tell you, Sir,&quot; the agent continues, &quot;that prosthetic eyes are not allowed on any ORBGROUP flight. They have the habit of becoming projectiles when the entry vehicle decelerates.&quot;
+
+ You hesitate, unsure what to say next.
+
+ The agent has already calmly printed out a boarding pass and handed it to you. &quot;ORBGROUP policy - if you would head to the restrooms and remove the prosthetic before flight. Sir.&quot;
+
+ &quot;You want me to take my own eye out?&quot; you ask.
+
+ &quot;The restrooms are in the food court, just north of Departure Lounge West, Sir. And if you could hurry, Sir. We&apos;re fueled and ready to clear the gate.&quot; The agent returns to the scanner, leaving you with the pass.
+ 
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22bfa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22bfa0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Departure Lounge
+There is a suited man here, busy on his phone.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22c010" />
+    </children>
+  </item>
+  <item nodeId="node-0x22c010">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Departure Lounge West
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22d130" />
+    </children>
+  </item>
+  <item nodeId="node-0x22d130">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Food Court
+The food court is a cascade of colors that emphasize poor judgment and the very latest horizontal combination services - surrounding you are a sea of coffeeweb shops, newsrental kiosks, burger-photo restaurants, astromedical prediction booths, and rapidbank-legal question-and-answer selfservice units. In the middle of the food court are a disorganized pile of seats and tables, peppered with tray and trash stations.
+
+To the south, you can see the departure concourse. To the west, there&apos;s a hallway marked with a restroom sign.
+
+You see a man drinking coffee.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22d180" />
+    </children>
+  </item>
+  <item nodeId="node-0x22d180">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">The restroom is a one-person affair. You enter and lock the door behind you.
+
+Restroom
+You look around the tiny restroom. It was made for the comfort of one person; the room is set out in dark marbles with Chinoise accent. The motion detector has already triggered a dim recessed panel of lighting, and you can see the basics of the room in fuzzy relief around you.
+
+You see your reflection in the mirror.
+
+You can also see a sink and a toilet here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b940" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b940">
+    <command xml:space="preserve">take out eye</command>
+    <result xml:space="preserve">You aren&apos;t really sure how to do this - you always hated anything getting close to your eyes...but you&apos;re running out of time to catch your flight....
+
+ You try to pinch the eye with one hand while keeping your lid open with the other -
+
+ Whoops! The eye falls into your hand. It&apos;s a hull, not a sphere like you imagined. It&apos;s hard like glass, and cold.
+ Wait a minute. On the back there&apos;s some kind of tape or film.
+ You carefully peel it off.
+ 
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b9b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b9b0">
+    <command xml:space="preserve">wash film in sink</command>
+    <result xml:space="preserve">You turn the spigot on the sink and let the water run over the film.
+
+You scrub at the thin film a bit.
+
+You pull the film back and take a look at it. Looks clean - there&apos;s something written on it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22e4b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22e4b0">
+    <command xml:space="preserve">read film</command>
+    <result xml:space="preserve">On the film is written the following words:
+
+DO NOT GET ON THE PLANE
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22e500" />
+    </children>
+  </item>
+  <item nodeId="node-0x22e500">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You unlock the door and head back out to the food court.
+
+Food Court
+Things seem quiet in the food court now - maybe everyone has boarded for Gate Six.
+
+The man drinking coffee has moved to another table.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22e550" />
+    </children>
+  </item>
+  <item nodeId="node-0x22e550">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You hear a click from behind you.
+&quot;Don&apos;t move&quot;, a voice says from the food court. &quot;United States Treasury Department.&quot;
+You freeze up - not sure if you should run or stay.
+&quot;That&apos;s good&quot;, the voice says behind you, finally coming around to face you. It is the man from the food court, now brandishing a compact pistol, and wearing a badge and earpiece. &quot;We know you, but you don&apos;t know me. I&apos;m Joseph Weaver, Financial Crimes Division.&quot; Weaver looks you in the eyes, but you find it hard not to stare at the little black pistol he points right at you.
+
+Before he can say any more, an alarm sounds throughout the concourse.
+
+&quot;What the hell -&quot; Weaver starts, but is interrupted by gunshots down the concourse to the east - followed closely behind by screams as travelers in the departure lounge panic at the shots.
+
+You break from him and run south to the departure lounge!
+
+You can see Weaver catching up with you! You had better get out of here.
+
+Departure Lounge West
+The recent gunfire has transformed the departure lounge into a river of panic - travelers are diving for cover, rapidly yelling to emergency services on mobile phones, or trying to find ways out of the terminal without exposing themselves to further harm. The scene is chaos - every traveler is out for themselves.You can see the rest of the departure lounge concourse to the east, and Gate Five is to the south.
+
+(type SURRENDER to give up) &gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22d2d0" />
+      <child nodeId="node-0x22d1f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22d1f0">
+    <command xml:space="preserve">SCENES</command>
+    <result xml:space="preserve">Scene &apos;Entire Game&apos; playing (for 57 mins now)
+Scene &apos;Armistice Day&apos; ended 
+Scene &apos;Departure&apos; playing (for 38 mins now)
+Scene &apos;Gunfight&apos; playing (for 5 mins now)
+(Scene monitoring now switched on. Type &quot;scenes off&quot; to switch it off again.)
+
+(type SURRENDER to give up) &gt;</result>
+    <annotation xml:space="preserve">Going to Hospital Scene</annotation>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="9589">NO</temporary>
+    <children>
+      <child nodeId="node-0x22d260" />
+    </children>
+  </item>
+  <item nodeId="node-0x22d260">
+    <command xml:space="preserve">SURRENDER</command>
+    <result xml:space="preserve">You get down on your knees, putting your hands behind your head.
+
+
+
+    *** ENDING #2: TO BE CONTINUED ***
+
+
+
+Would you like to RESTART, RESTORE a saved game or QUIT?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="9589">NO</temporary>
+  </item>
+  <item nodeId="node-0x22d2d0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You bolt down the departure concourse, headed east!
+
+&quot;Over here!&quot; shouts a voice from down the concourse. &quot;Did you get my note?&quot;
+&quot;Where are you?&quot; you shout, taking cover behind a planter.
+&quot;Right here&quot;, the voice says, the speaker appearing behind a very frightened-looking ORBGROUP gate agent. You notice the agent has a gun to their head, and the mysterious stranger is holding it, keeping the agent in a body-shield grip in front of him.
+&quot;What the hell -&quot; you start to ask, but duck back down as Weaver approaches.
+&quot;Trying to survive,&quot; the man says. &quot;Now it&apos;s your turn. Grab that man in the suit in the corner and let&apos;s go. Catch.&quot; He tosses something in the air - it slides on the tile toward you, stopping at your feet. It is a nickel-plated handgun.
+&quot;My name is Clayton, by the way. Let&apos;s go.&quot;
+
+Departure Lounge
+The frenetic pace, the hurried slew of bodies, the order and linearity have all devolved at the sound of gunfire: the main departure lounge is now a huddle of frightened bodies, spilled coffee, and abandoned luggage. The concourse proceeds west and east, and Gate Six is to your south.
+
+Clayton is here, holding the ORBGROUP agent hostage.
+
+You see a handgun on the ground.
+
+The suited man huddles for cover nearby.
+
+(type SURRENDER to give up) &gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x271890" />
+      <child nodeId="node-0x22b170" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b170">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">&quot;Hey!&quot; Clayton yells as you run south. &quot;Hey, get back here, goddamn-&quot;A hail of gunfire drowns his words out.
+
+Gate 6
+Gate Six is absolutely empty of life. No agent, no travelers - nothing. The panic has driven travelers to the far east and far west gates, leaving this middle gate barren.Gate Five is to the west, Gate Seven to the east, and the departure lounge is to the north. The jetdoor blocks access to a jet bridge to the south.
+
+You can see a jetdoor and a pass reader (empty) here.
+
+A crash from the east concourse knocks you to the floor - smoke belches in from the east, and flickering flashlights are cutting bright planes in the oncoming cloud. You count five of them, and they are advancing fast.
+
+
+(type SURRENDER to give up) &gt;</result>
+    <annotation xml:space="preserve">Going to ORBFLIGHT Scene</annotation>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b1c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b1c0">
+    <command xml:space="preserve">put pass in reader</command>
+    <result xml:space="preserve">(the boarding pass in the pass reader)
+The reader sucks down the pass, and the jetdoor in front of you unseals with a spout of gas from the depressurization rig. Now open, the jetdoor access light is green. You&apos;re cleared to enter the jetbridge to your south.
+
+(type SURRENDER to give up) &gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b210" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b210">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You make a break for the open jetdoor!
+You hear the man north of you, yelling! &quot;Come back, damn you! Don&apos;t get on that -&quot;His words are drowned out in a burst of automatic gunfire.
+You keep your head down and run...
+
+You make it into the jetbridge, breathless - but Weaver is still coming for you. You look around you...
+
+Jetbridge
+You can see a jetdoor and a pressurization panel (closed) here.
+
+There is a rapid, ripping sound of gunfire from the east concourse, followed by ominous quiet. Calls for a medic and shouts of cleared sectors eventually fill in the silence. The SWAT team must have taken Clayton down.
+ You know that they&apos;re coming for you next.
+
+(type SURRENDER to give up) &gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b280" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b280">
+    <command xml:space="preserve">close jetdoor</command>
+    <result xml:space="preserve">You close the jetdoor.
+
+(type SURRENDER to give up) &gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b2f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b2f0">
+    <command xml:space="preserve">open panel</command>
+    <result xml:space="preserve">You open the pressurization panel, revealing an emergency pressure handle.
+
+(type SURRENDER to give up) &gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b360" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b360">
+    <command xml:space="preserve">pull handle</command>
+    <result xml:space="preserve">You yank at the handle...
+
+The whole thing comes off in your hand; you slam back against the wall as a yellow light flares from above and a blast of escaping gas rushes down the jetbridge corridor.
+ The light turns red - you see a wheel mechanism inside the jetdoor turn and lock into place.
+ You have sealed the jetdoor closed. Gunshots ring out from the airport side of the door, but they are barely audible.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b3d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b3d0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Jetbridge
+You can see a jetdoor and a pressurization panel (empty) here.
+
+There is a clatter at the jetdoor, and voices yelling for you to surrender - but they are unable to get the pressurized door open.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b440" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b440">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Jetbridge
+You can see a jetdoor and a pressurization panel (empty) here.
+
+Weaver slams up against the jetdoor, cursing out loud, trying to get through, but the jetdoor has pressurized and locked down.
+
+You are safe for now.
+
+You drop the handle to the floor and take a breath.
+A meek voice to your south calls out: &quot;Hello?
+
+Jetbridge
+The jetbridge now feels like a portal to another world, the solid slab of the jetdoor an absolute barrier between the near-death of the concourse and your own fragile body. Sounds from the concourse are muffled, far-off, and unable to get to you.
+ To your south, you see the open door to the ORBFLIGHT aircraft, waiting for you to board.
+
+You can see a jetdoor and a pressurization panel (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b4b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b4b0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Jetbridge
+The jetbridge now feels like a portal to another world, the solid slab of the jetdoor an absolute barrier between the near-death of the concourse and your own fragile body. Sounds from the concourse are muffled, far-off, and unable to get to you.
+ To your south, you see the open door to the ORBFLIGHT aircraft, waiting for you to board.
+
+You can see a jetdoor and a pressurization panel (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b520" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b520">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You walk down the jetbridge, into the cabin of the waiting aircraft.
+
+The ORBFLIGHT crew, waiting in the cabin, welcomes you aboard, acting as if they hadn&apos;t realized - or were simply kind enough to ignore - that you had run through a monsoon of bullets to get here.
+The attendant shows you to your harness module and makes the usual motions to instruct you on emergency release procedures in the case of zero-atmosphere depressurization, gimbal lock, and solar flares.
+At last, she drops the latest Zink in your lap and smiles, checking that your harness is buckled and that you&apos;re ready to head up.
+
+ORBFLIGHT Cabin
+You are seated in a deep leather reclining seat, looking out a fist-sized porthole to the world outside. The ORBFLIGHT cabin is a small, leather and granite-style paneled hemisphere with a handful of similar seats, each one containing a similarly disconnected, quiet traveler. The ceiling of the cabin is a stylized celestial map.
+The cabin exits to the outside, east.
+
+The ORBGROUP flight attendant walks the cabin, making sure things are in order.
+
+A complicated force harness keeps you buckled into your seat.
+
+A PAXET display hinges out from your seat, waiting for a command.
+
+The latest Zink magazine is here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b590" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b590">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b600" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b600">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b670" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b670">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b6e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b6e0">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b750" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b750">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b7c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b7c0">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b830" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b830">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22b8a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22b8a0">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x21be60" />
+    </children>
+  </item>
+  <item nodeId="node-0x21be60">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x21bed0" />
+    </children>
+  </item>
+  <item nodeId="node-0x21bed0">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x21bf40" />
+    </children>
+  </item>
+  <item nodeId="node-0x21bf40">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x21bfb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x21bfb0">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+You hear the overhead intercom go on. A curt, edged voice comes on the line.
+&quot;Welcome to ORBGROUP flight TWO-ALPHA-TWO, service from Johannesburg, South Africa to Alexandria, Virginia in the United States. We&apos;re uh - just coming off a bit of trouble in the terminal, but that&apos;s not our concern at the moment. ORBGROUP has told us that our safest option right now is to hook up and get skyborne. Your ORBGROUP in-can flight officers Trieste and Mercer here, letting you know today&apos;s orbital operators are on loan from Conica, who reminds you that space is a journey, not a destination.&quot;
+You can hear quiet conversation in the cockpit. Finally the intercom comes back on.
+&quot;We&apos;re expecting to hook up in about ten minutes, at which point we&apos;re looking at a five-minute trip up, a fifteen-minute float, and ten minutes burn to land at Alexandria, putting you on the ground at just around two-thirty AM, Eastern time.&quot;
+&quot;Conica is indicating we&apos;re eight minutes from first hookup burn, so please stay in those harnesses and we&apos;ll get you weightless just as soon as we can. Thanks for coming along with us here at ORBGROUP.&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x21c020" />
+    </children>
+  </item>
+  <item nodeId="node-0x21c020">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x229f90" />
+    </children>
+  </item>
+  <item nodeId="node-0x229f90">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a000" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a000">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+The attendant near you smiles, folds down a chair from the cabin wall, and straps in with a harness, getting ready for launch.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a070" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a070">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a0e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a0e0">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a150" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a150">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a1c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a1c0">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+A red light goes on above your head. At the same time, there is a whirring, flanging hum coming from beneath your seat.
+You see the PAXET display retract into your seat as if it was taking cover.
+The intercom clips on:&quot;Flight attendants verify clips closed, ground locks disengage. Dry-fuel fuse is lit.&quot;
+It&apos;s only then that you realize what an ORBFLIGHT really is, outside of standard travel for the rich and powerful: it&apos;s sitting just inches above a mountain of self-oxidizing micro-solar hydrogen fuel.
+&quot;Alexandria in a half-hour, folks. Here we go.&quot;
+The fuel ignites.
+
+ORBFLIGHT Cabin
+Your head is crushed into your seat, unable to move - the rest of your body fares no better - you are accelerating faster, harder, than anything you have ever felt before, riding on a single solid chemical booster engine into the upper atmosphere. Your head, fixed in place as it is, fortunately has the porthole to look out at.
+
+The ORBGROUP flight attendant sits calmly in a jumpseat, reading a magazine.
+
+A complicated force harness keeps you buckled into your seat.
+
+The Zink magazine is here, smeared flat against your chest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a230" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a230">
+    <command xml:space="preserve">look at zink</command>
+    <result xml:space="preserve">With a monumental effort, you manage to move your head to look at the Zink magazine...
+
+You see nothing special about the Zink magazine.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a2a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a2a0">
+    <command xml:space="preserve">look at porthole</command>
+    <result xml:space="preserve">With a monumental effort, you manage to move your head to look at the porthole...
+
+NO IN-BOOST DESCRIPTION
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a310" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a310">
+    <command xml:space="preserve">look at attendant</command>
+    <result xml:space="preserve">With a monumental effort, you manage to move your head to look at the ORBGROUP flight attendant...
+
+WOAH NO DESCRIPTION!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a380" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a380">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+Your head is crushed into your seat, unable to move - the rest of your body fares no better - you are accelerating faster, harder, than anything you have ever felt before, riding on a single solid chemical booster engine into the upper atmosphere. Your head, fixed in place as it is, fortunately has the porthole to look out at.
+
+The ORBGROUP flight attendant sits calmly in a jumpseat, reading a magazine.
+
+A complicated force harness keeps you buckled into your seat.
+
+The Zink magazine is here, smeared flat against your chest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a3f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a3f0">
+    <command xml:space="preserve">look at porthole</command>
+    <result xml:space="preserve">With a monumental effort, you manage to move your head to look at the porthole...
+
+NO IN-BOOST DESCRIPTION
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a460" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a460">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+Your head is crushed into your seat, unable to move - the rest of your body fares no better - you are accelerating faster, harder, than anything you have ever felt before, riding on a single solid chemical booster engine into the upper atmosphere. Your head, fixed in place as it is, fortunately has the porthole to look out at.
+
+The ORBGROUP flight attendant sits calmly in a jumpseat, reading a magazine.
+
+A complicated force harness keeps you buckled into your seat.
+
+The Zink magazine is here, smeared flat against your chest.
+
+As you are becoming familiar - almost comfortable - with the forces mashing your head into your seat, you can hear the click of the intercom.
+&quot;Crew stand by for hookup and stage two acceleration.&quot;
+Oh, for God&apos;s sake - 
+The celestial map above you changes to a rapidly-draining timer and superimposed icon of a capsule - supposedly the aircraft you are riding in - suspended by a hook that hangs on a phantom line.
+You can see nothing unusual outside, but know that the skyhook is approaching, tethered to a platform in near-earth orbit.
+&quot;Folks, headwinds have put us at a bit of a velocity disadvantage - we&apos;re looking at a bit of a bumpy hookup. If you&apos;d do us a favor and keep your mouths open for just the next few seconds, you&apos;ll avoid any damage to your teeth on impact.&quot;
+&quot;Five - four -&quot;
+You open your mouth.
+There is only the very slightest sound of steel whistling through sky, when an impact flattens you against your seat, the steel buckle of your harness stamping its mechanical imprint on your chest. Your jaw slams shut and your teeth crack against one another.
+&quot;Woah,&quot; goes the intercom. The celestial map announces &quot;HOOKUP&quot;.
+
+ORBFLIGHT Cabin
+You can&apos;t breathe - you feel two-dimensional. The ORBFLIGHT you are sitting in is being flung into space by a huge slingsteel tether and orbit hook dangling from a low-earth satellite system. You try to remind yourself at some point this will all get better and your lungs will be able to inflate again. The porthole shows a rapidly-changing view. The celestial map above you has changed, too.
+
+The ORBGROUP flight attendant appears to be asleep.
+
+A complicated force harness keeps you buckled into your seat.
+
+The Zink magazine has crawled up your chest and is apparently trying to choke you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a4d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a4d0">
+    <command xml:space="preserve">look at magazine</command>
+    <result xml:space="preserve">With a monumental effort, you manage to move your head to look at the Zink magazine...
+
+You see nothing special about the Zink magazine.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a540" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a540">
+    <command xml:space="preserve">look at harness</command>
+    <result xml:space="preserve">With a monumental effort, you manage to move your head to look at the harness...
+
+The harness is a remote-release ORBGROUP-standard five-point acceleration model, designed to keep you safe and secure while the ORBGROUP flight makes initial ascent and final descent.
+The harness is secure around your shoulders, keeping you tight to the seat.A light on the buckle glows red, indicating it has been remotely locked.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a5b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a5b0">
+    <command xml:space="preserve">look at attendant</command>
+    <result xml:space="preserve">With a monumental effort, you manage to move your head to look at the ORBGROUP flight attendant...
+
+What a jerk.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a620" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a620">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+You can&apos;t breathe - you feel two-dimensional. The ORBFLIGHT you are sitting in is being flung into space by a huge slingsteel tether and orbit hook dangling from a low-earth satellite system. You try to remind yourself at some point this will all get better and your lungs will be able to inflate again. The porthole shows a rapidly-changing view. The celestial map above you has changed, too.
+
+The ORBGROUP flight attendant appears to be asleep.
+
+A complicated force harness keeps you buckled into your seat.
+
+The Zink magazine has crawled up your chest and is apparently trying to choke you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a690" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a690">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+You can&apos;t breathe - you feel two-dimensional. The ORBFLIGHT you are sitting in is being flung into space by a huge slingsteel tether and orbit hook dangling from a low-earth satellite system. You try to remind yourself at some point this will all get better and your lungs will be able to inflate again. The porthole shows a rapidly-changing view. The celestial map above you has changed, too.
+
+The ORBGROUP flight attendant appears to be asleep.
+
+A complicated force harness keeps you buckled into your seat.
+
+The Zink magazine has crawled up your chest and is apparently trying to choke you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a700" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a700">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+You can&apos;t breathe - you feel two-dimensional. The ORBFLIGHT you are sitting in is being flung into space by a huge slingsteel tether and orbit hook dangling from a low-earth satellite system. You try to remind yourself at some point this will all get better and your lungs will be able to inflate again. The porthole shows a rapidly-changing view. The celestial map above you has changed, too.
+
+The ORBGROUP flight attendant appears to be asleep.
+
+A complicated force harness keeps you buckled into your seat.
+
+The Zink magazine has crawled up your chest and is apparently trying to choke you.
+
+You feel the tension on your chest and neck melt away.
+The sound of the rocket booster has faded as well - you are aware only of an incidental ringing left in your ears.
+Breath returns to your lungs, blood once again flows to your brain. In fact, the whole of you seems to be light, rising, and free.
+But it doesn&apos;t stop - you are rising from your seat, bound only by the harness. The magazine perched on your neck begins to float away, the pages flapping a little like wings.
+&quot;On behalf of the first officer, myself, and all our orbital flight crew,&quot; says the intercom, &quot;Welcome to near-earth orbit and microgravity.&quot;
+
+Terrific.
+
+With a faint beep, your harness buckle goes from red to green.
+The PAXET display that had gone underground during the pain and suffering of boost and hookup slowly extends from its hiding place, as if it were truly unaware anything had occurred.
+&quot;Folks, you&apos;re free to move about the cabin for a bit as we make the suborbital leg of our journey - the cabin attendants will be sure to get you seated and buckled in when we need to prepare for retro-fire. Enjoy, and thanks for traveling with ORBGROUP.&quot;
+
+ORBFLIGHT Cabin
+NO IN-ZERO DESCRIPTION
+
+A PAXET display hinges out from your seat, waiting for a command.
+
+The ORBGROUP flight attendant is awake, and watching travelers float about in zero-G.
+
+A complicated force harness keeps you buckled into your seat.
+
+The Zink magazine floats effortlessly in the air near your head.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a770" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a770">
+    <command xml:space="preserve">look at display</command>
+    <result xml:space="preserve">The PAXET display reads INSERT LOGOSTICK and appears ready to operate.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x2717b0" />
+      <child nodeId="node-0x22a7e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a7e0">
+    <command xml:space="preserve">unclip harness</command>
+    <result xml:space="preserve">You open the harness.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a850" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a850">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+NO IN-ZERO DESCRIPTION
+
+A PAXET display hinges out from your seat, waiting for a command.
+
+The ORBGROUP flight attendant is awake, and watching travelers float about in zero-G.
+
+The seat harness lies discarded, hanging from the seat.
+
+The Zink magazine floats effortlessly in the air near your head.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a8c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a8c0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+ORBFLIGHT Tailsection
+NO IN-ZERO DESCRIPTION
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a930" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a930">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+ORBFLIGHT Cabin
+A PAXET display hinges out from your seat, waiting for a command.
+
+The ORBGROUP flight attendant is awake, and watching travelers float about in zero-G.
+
+The seat harness lies discarded, hanging from the seat.
+
+The Zink magazine floats effortlessly in the air near your head.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22a9a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22a9a0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+ORBFLIGHT Headsection
+NO IN-ZERO DESCRIPTION
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22aa10" />
+    </children>
+  </item>
+  <item nodeId="node-0x22aa10">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+ORBFLIGHT Cabin
+A PAXET display hinges out from your seat, waiting for a command.
+
+The ORBGROUP flight attendant is awake, and watching travelers float about in zero-G.
+
+The seat harness lies discarded, hanging from the seat.
+
+The Zink magazine floats effortlessly in the air near your head.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22aa80" />
+    </children>
+  </item>
+  <item nodeId="node-0x22aa80">
+    <command xml:space="preserve">flip</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22aaf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22aaf0">
+    <command xml:space="preserve">jump</command>
+    <result xml:space="preserve">You jump on the spot, fruitlessly.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22ab60" />
+    </children>
+  </item>
+  <item nodeId="node-0x22ab60">
+    <command xml:space="preserve">help</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22abd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22abd0">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22ac40" />
+    </children>
+  </item>
+  <item nodeId="node-0x22ac40">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22acb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22acb0">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22ad20" />
+    </children>
+  </item>
+  <item nodeId="node-0x22ad20">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22ad90" />
+    </children>
+  </item>
+  <item nodeId="node-0x22ad90">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22ae00" />
+    </children>
+  </item>
+  <item nodeId="node-0x22ae00">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22ae70" />
+    </children>
+  </item>
+  <item nodeId="node-0x22ae70">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22aee0" />
+    </children>
+  </item>
+  <item nodeId="node-0x22aee0">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x22af50" />
+    </children>
+  </item>
+  <item nodeId="node-0x22af50">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x224950" />
+    </children>
+  </item>
+  <item nodeId="node-0x224950">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x2249a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2249a0">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x2249f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2249f0">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x224a60" />
+    </children>
+  </item>
+  <item nodeId="node-0x224a60">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x224ad0" />
+    </children>
+  </item>
+  <item nodeId="node-0x224ad0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x271040" />
+    </children>
+  </item>
+  <item nodeId="node-0x271040">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+You see the harness around you go red.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x2710b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2710b0">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x271120" />
+    </children>
+  </item>
+  <item nodeId="node-0x271120">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+NO IN-ZERO DESCRIPTION
+
+A PAXET display hinges out from your seat, waiting for a command.
+
+The ORBGROUP flight attendant is awake, and watching travelers float about in zero-G.
+
+A complicated force harness keeps you buckled into your seat.
+
+The Zink magazine floats effortlessly in the air near your head.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x271190" />
+    </children>
+  </item>
+  <item nodeId="node-0x271190">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+NO IN-ZERO DESCRIPTION
+
+A PAXET display hinges out from your seat, waiting for a command.
+
+The ORBGROUP flight attendant is awake, and watching travelers float about in zero-G.
+
+A complicated force harness keeps you buckled into your seat.
+
+The Zink magazine floats effortlessly in the air near your head.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x271200" />
+    </children>
+  </item>
+  <item nodeId="node-0x271200">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+NO IN-ZERO DESCRIPTION
+
+A PAXET display hinges out from your seat, waiting for a command.
+
+The ORBGROUP flight attendant is awake, and watching travelers float about in zero-G.
+
+A complicated force harness keeps you buckled into your seat.
+
+The Zink magazine floats effortlessly in the air near your head.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x271270" />
+    </children>
+  </item>
+  <item nodeId="node-0x271270">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+NO IN-ZERO DESCRIPTION
+
+A PAXET display hinges out from your seat, waiting for a command.
+
+The ORBGROUP flight attendant is awake, and watching travelers float about in zero-G.
+
+A complicated force harness keeps you buckled into your seat.
+
+The Zink magazine floats effortlessly in the air near your head.
+
+The PAXET Display slides back into its holder again.
+RETRO, BABY!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x2712e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2712e0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+NO IN-RETRO DESCRIPTION
+
+The ORBGROUP flight attendant is awake, and watching travelers float about in zero-G.
+
+A complicated force harness keeps you buckled into your seat.
+
+The Zink magazine is here, smeared flat against your chest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x271350" />
+    </children>
+  </item>
+  <item nodeId="node-0x271350">
+    <command xml:space="preserve">look at harness</command>
+    <result xml:space="preserve">With a monumental effort, you manage to move your head to look at the harness...
+
+The harness is a remote-release ORBGROUP-standard five-point acceleration model, designed to keep you safe and secure while the ORBGROUP flight makes initial ascent and final descent.
+The harness is secure around your shoulders, keeping you tight to the seat.A light on the buckle glows red, indicating it has been remotely locked.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x2713c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2713c0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+NO IN-RETRO DESCRIPTION
+
+The ORBGROUP flight attendant is awake, and watching travelers float about in zero-G.
+
+A complicated force harness keeps you buckled into your seat.
+
+The Zink magazine is here, smeared flat against your chest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x271430" />
+    </children>
+  </item>
+  <item nodeId="node-0x271430">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x2714a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2714a0">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x271510" />
+    </children>
+  </item>
+  <item nodeId="node-0x271510">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.
+
+LANDED, BABY!
+
+With a faint beep, your harness buckle goes from red to green.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x271580" />
+    </children>
+  </item>
+  <item nodeId="node-0x271580">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+You are seated in a deep leather reclining seat, looking out a fist-sized porthole to the world outside. The ORBFLIGHT cabin is a small, leather and granite-style paneled hemisphere with a handful of similar seats, each one containing a similarly disconnected, quiet traveler. The ceiling of the cabin is a stylized celestial map.
+The cabin exits to the outside, east.
+
+The ORBGROUP flight attendant is awake, and watching travelers float about in zero-G.
+
+A complicated force harness keeps you buckled into your seat.
+
+The latest Zink magazine is here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x2715f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2715f0">
+    <command xml:space="preserve">look at harness</command>
+    <result xml:space="preserve">The harness is a remote-release ORBGROUP-standard five-point acceleration model, designed to keep you safe and secure while the ORBGROUP flight makes initial ascent and final descent.
+The harness is secure around your shoulders, keeping you tight to the seat.A green light shines from the harness buckle - you can now open or close the harness yourself.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3025">NO</temporary>
+    <children>
+      <child nodeId="node-0x271660" />
+    </children>
+  </item>
+  <item nodeId="node-0x271660">
+    <command xml:space="preserve">open harness</command>
+    <result xml:space="preserve">You open the harness.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3024">NO</temporary>
+    <children>
+      <child nodeId="node-0x2716d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2716d0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+You are seated in a deep leather reclining seat, looking out a fist-sized porthole to the world outside. The ORBFLIGHT cabin is a small, leather and granite-style paneled hemisphere with a handful of similar seats, each one containing a similarly disconnected, quiet traveler. The ceiling of the cabin is a stylized celestial map.
+The cabin exits to the outside, east.
+
+The ORBGROUP flight attendant is awake, and watching travelers float about in zero-G.
+
+The seat harness lies discarded, hanging from the seat.
+
+The latest Zink magazine is here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2886">YES</temporary>
+    <children>
+      <child nodeId="node-0x271740" />
+    </children>
+  </item>
+  <item nodeId="node-0x271740">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Alexandria ORBGROUP Terminal
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2885">YES</temporary>
+  </item>
+  <item nodeId="node-0x2717b0">
+    <command xml:space="preserve">insert logostick in display</command>
+    <result xml:space="preserve">You slot the logostick into the port in the side of the terminal, and it boots up silently.
+
+PAXET Trunk - Welcome, You Inc.
+TABLE OF MAIN OPTIONS
+
+NEWS - Check latest news personalized for You, Inc.
+STOCKS - Control your currently held stocks.
+MESSAGES - Scan incoming messages
+HELP - Get help with PAXET commands
+EXIT - Exit PAXET and eject Logostick
+
+-- (LOG) $80 $0 -- (CIA) $80 $0 -- (YOU) $50 $0 -- 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2359">YES</temporary>
+    <children>
+      <child nodeId="node-0x271820" />
+    </children>
+  </item>
+  <item nodeId="node-0x271820">
+    <command xml:space="preserve">exit</command>
+    <result xml:space="preserve">***PAXET SESSION TERMINATED***
+You eject your logostick and the terminal blinks off.
+
+ORBFLIGHT Cabin
+NO IN-ZERO DESCRIPTION
+
+A PAXET display hinges out from your seat, waiting for a command.
+
+The ORBGROUP flight attendant is awake, and watching travelers float about in zero-G.
+
+A complicated force harness keeps you buckled into your seat.
+
+The Zink magazine floats effortlessly in the air near your head.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2358">YES</temporary>
+  </item>
+  <item nodeId="node-0x271890">
+    <command xml:space="preserve">take handgun</command>
+    <result xml:space="preserve">You reach down and grab the handgun. It is heavy and cold.
+&quot;Good! Grab that man - we&apos;re getting out of here!&quot; Clayton yells.
+The suited man looks at you with pleading eyes. &quot;Don&apos;t&quot;, he mouths silently to you.
+
+A crash from the east concourse knocks you to the floor - smoke belches in from the east, and flickering flashlights are cutting bright planes in the oncoming cloud. You count five of them, and they are advancing fast.
+
+&quot;Shit,&quot; Clayton says. &quot;I was afraid of that. Treasury sent a SWAT team.&quot; You can see him tighten the grip on his hostage. &quot;You get your hostage and you get ready to move! We do this together or we&apos;re both dead.&quot;
+
+(SURRENDER to give up, SHOOT to shoot someone) &gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="474">NO</temporary>
+    <children>
+      <child nodeId="node-0x271900" />
+    </children>
+  </item>
+  <item nodeId="node-0x271900">
+    <command xml:space="preserve">take hostage</command>
+    <result xml:space="preserve">You cock the hammer back on your handgun and grab the man by his collar. Shrieking, he backpedals right into you. You feel his back slam against your chest, and your arm crooks around him to keep him close.
+
+ You swallow and close your eyes, putting your gun to his head, trying to convince yourself you&apos;re only doing this to survive.
+
+ Just to survive.
+
+&quot;Okay,&quot; Clayton says, turning his hostage to face the incoming SWAT team. He cranes his head over your way. &quot;We&apos;re making our move now! Let&apos;s go!&quot;
+Clayton takes his hostage east.
+
+(SURRENDER to give up, SHOOT to shoot someone) &gt;</result>
+    <commentary xml:space="preserve">You cock the hammer back on your handgun and grab the man by his collar. Shrieking, he backpedals right into you. You feel his back slam against your chest, and your arm crooks around him to keep him close.
+ You swallow and close your eyes, putting your gun to his head, trying to convince yourself you&apos;re only doing this to survive.
+
+ Just to survive.
+
+&quot;Okay,&quot; Clayton says, turning his hostage to face the incoming SWAT team. He cranes his head over your way. &quot;We&apos;re making our move now! Let&apos;s go!&quot;
+Clayton takes his hostage east.
+
+(SURRENDER to give up, SHOOT to shoot someone) &gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="286">NO</temporary>
+  </item>
+  <item nodeId="node-0x271970">
+    <command xml:space="preserve">xyzzq</command>
+    <result xml:space="preserve">Argot Lounge
+Blah blah. The wall is displaying a crucifixion-crucifixion diorama, the ceiling above you is displaying a crucifixion-crucifixion diorama, and the floor at your feet is displaying a crucifixion-crucifixion diorama.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x271f90" />
+      <child nodeId="node-0x271f20" />
+      <child nodeId="node-0x271ba0" />
+      <child nodeId="node-0x2719e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2719e0">
+    <command xml:space="preserve">look at wall</command>
+    <result xml:space="preserve">The surface contains a matchwork pattern of Christ-like figures rotating around pyramidial currency chits.
+
+You feel a pain in your left leg.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x271a50" />
+    </children>
+  </item>
+  <item nodeId="node-0x271a50">
+    <command xml:space="preserve">xyzzy</command>
+    <result xml:space="preserve">Departure Lounge
+People surround you; hurried, frayed, fast. Glass and steel beamwork cross in sweeping orbits around a large curved window that looks out over a greenbelted cityscape. The smell of hastily-fried foods mixed with heavy coffees. Black leather chairs embossed with friendly ORBGROUP logos line the main thoroughfare; white tile floors cut by vanishing-point aluminum slices extend on to the west and east until they curve out of sight. To your south is Gate Six.
+
+There is a suited man here, busy on his phone.
+
+-- (LOG) $82 $2 -- (CIA) $89 $9 -- (YOU) $49 $-1 -- 
+Symbol ----- Name ------ Price | +/-
+LOG | LogoS Corporation | $82  | $2
+CIA | Clayton Info.Acq. | $89  | $9
+YOU | You, Incorporated | $49  | $-1
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x271ac0" />
+    </children>
+  </item>
+  <item nodeId="node-0x271ac0">
+    <command xml:space="preserve">xyzzq</command>
+    <result xml:space="preserve">Argot Lounge
+Blah blah. The wall is displaying a sort of currency crucifixion diorama.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+    <children>
+      <child nodeId="node-0x271b30" />
+    </children>
+  </item>
+  <item nodeId="node-0x271b30">
+    <command xml:space="preserve">look at ceiling</command>
+    <result xml:space="preserve">The surface contains a matchwork pattern of Christ-like figures rotating around pyramidial currency chits.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="23">YES</temporary>
+  </item>
+  <item nodeId="node-0x271ba0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Argot Lounge
+Blah blah. The wall is displaying a heraldry-antigravity hologram, the ceiling above you is displaying a signal bleed-signal bleed diorama, and the floor at your feet is displaying a antigravity-tectonics hologram.
+
+You feel a pain in your left leg.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x271c10" />
+    </children>
+  </item>
+  <item nodeId="node-0x271c10">
+    <command xml:space="preserve">SCENES</command>
+    <result xml:space="preserve">Scene &apos;Entire Game&apos; playing (for 2 mins now)
+Scene &apos;Armistice Day&apos; playing (for 2 mins now)
+Scene &apos;Alexandria Day One&apos; playing (for 2 mins now)
+(Scene monitoring now switched on. Type &quot;scenes off&quot; to switch it off again.)
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x271c80" />
+    </children>
+  </item>
+  <item nodeId="node-0x271c80">
+    <command xml:space="preserve">change it</command>
+    <result xml:space="preserve">As if by magic, the patterns around the room change to your command.
+
+[Scene &apos;Alexandria Day One&apos; ends]
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x271cf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x271cf0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Argot Lounge
+Blah blah. The wall is displaying a artillery grid-winter climate corpus, the ceiling above you is displaying a biathlon-crucifixion hologram, and the floor at your feet is displaying a spring climate-coriolis effect hologram.
+
+You&apos;re growing increasingly aware of the pain in your left leg.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x271d60" />
+    </children>
+  </item>
+  <item nodeId="node-0x271d60">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x271dd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x271dd0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x271e40" />
+    </children>
+  </item>
+  <item nodeId="node-0x271e40">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x271eb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x271eb0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="90">YES</temporary>
+  </item>
+  <item nodeId="node-0x271f20">
+    <command xml:space="preserve">look at data wall</command>
+    <result xml:space="preserve">Blah
+
+You feel a pain in your left leg.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="8">YES</temporary>
+  </item>
+  <item nodeId="node-0x271f90">
+    <command xml:space="preserve">change it</command>
+    <result xml:space="preserve">As if by magic, the patterns around the room change to your command.
+
+You feel a pain in your left leg.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0x272000" />
+    </children>
+  </item>
+  <item nodeId="node-0x272000">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Argot Lounge
+Blah blah. The wall is displaying a bird migration-japanese fashion diorama, the ceiling above you is displaying a coriolis effect-heliography hologram, and the floor at your feet is displaying a heraldry-grain price mimeograph.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0x272690" />
+      <child nodeId="node-0x272070" />
+    </children>
+  </item>
+  <item nodeId="node-0x272070">
+    <command xml:space="preserve">look at floor</command>
+    <result xml:space="preserve">The floor is a holographic image of a Japanese noh-style wakizure gliding down a fashion runway, with a bleeding left eye, joined with a graphical breakout chart of grain sales radiating from major food centers.
+
+You&apos;re growing increasingly aware of the pain in your left leg.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+    <children>
+      <child nodeId="node-0x2720e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2720e0">
+    <command xml:space="preserve">look at wall</command>
+    <result xml:space="preserve">The surface of the wall contains a matchwork pattern of Christ-like figures, overlaid on a matrix of melted wax droplets revealing a message within the pixels of an image.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+    <children>
+      <child nodeId="node-0x272150" />
+    </children>
+  </item>
+  <item nodeId="node-0x272150">
+    <command xml:space="preserve">look at ceiling</command>
+    <result xml:space="preserve">Looking up at the ceiling, you see a blob of pyramidial currency chits, rotating around a series of numerical buckets receiving individual words from a floating document.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+    <children>
+      <child nodeId="node-0x2721c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2721c0">
+    <command xml:space="preserve">change it</command>
+    <result xml:space="preserve">As if by magic, the patterns around the room change to your command.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+    <children>
+      <child nodeId="node-0x272230" />
+    </children>
+  </item>
+  <item nodeId="node-0x272230">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Argot Lounge
+Blah blah. The wall is displaying a crucifixion-currency mimeograph, the ceiling above you is displaying a crucifixion-crucifixion corpus, and the floor at your feet is displaying a grain price-crucifixion diorama.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+    <children>
+      <child nodeId="node-0x2722a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2722a0">
+    <command xml:space="preserve">look at ceiling</command>
+    <result xml:space="preserve">Looking up at the ceiling, you see a matchwork pattern of Christ-like figures, overlaid on a matchwork pattern of Christ-like figures.
+
+The pain in your leg is excruciating. You&apos;re starting to feel sick. You&apos;re going to need medical help soon.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+    <children>
+      <child nodeId="node-0x272310" />
+    </children>
+  </item>
+  <item nodeId="node-0x272310">
+    <command xml:space="preserve">change it</command>
+    <result xml:space="preserve">As if by magic, the patterns around the room change to your command.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+    <children>
+      <child nodeId="node-0x272380" />
+    </children>
+  </item>
+  <item nodeId="node-0x272380">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Argot Lounge
+Blah blah. The wall is displaying a grain price-steganography diorama, the ceiling above you is displaying a japanese fashion-japanese fashion corpus, and the floor at your feet is displaying a steganography-japanese fashion diorama.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+    <children>
+      <child nodeId="node-0x2723f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2723f0">
+    <command xml:space="preserve">change it</command>
+    <result xml:space="preserve">As if by magic, the patterns around the room change to your command.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+    <children>
+      <child nodeId="node-0x272460" />
+    </children>
+  </item>
+  <item nodeId="node-0x272460">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Argot Lounge
+Blah blah. The wall is displaying a grain price-grain price mimeograph, the ceiling above you is displaying a japanese fashion-steganography corpus, and the floor at your feet is displaying a currency-currency mimeograph.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+    <children>
+      <child nodeId="node-0x2724d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2724d0">
+    <command xml:space="preserve">change it</command>
+    <result xml:space="preserve">As if by magic, the patterns around the room change to your command.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+    <children>
+      <child nodeId="node-0x272540" />
+    </children>
+  </item>
+  <item nodeId="node-0x272540">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Argot Lounge
+Blah blah. The wall is displaying a stylometry-stylometry triptych, the ceiling above you is displaying a currency-grain price hologram, and the floor at your feet is displaying a grain price-steganography mimeograph.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+    <children>
+      <child nodeId="node-0x2725b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2725b0">
+    <command xml:space="preserve">look at floor</command>
+    <result xml:space="preserve">The floor is a holographic image of a graphical breakout chart of grain sales radiating from major food centers, enmeshed in a matrix of melted wax droplets revealing a message within the pixels of an image.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+    <children>
+      <child nodeId="node-0x272620" />
+    </children>
+  </item>
+  <item nodeId="node-0x272620">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Argot Lounge
+Blah blah. The wall is displaying a stylometry-stylometry triptych, the ceiling above you is displaying a currency-grain price hologram, and the floor at your feet is displaying a grain price-steganography mimeograph.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="68">YES</temporary>
+  </item>
+  <item nodeId="node-0x272690">
+    <command xml:space="preserve">change it</command>
+    <result xml:space="preserve">As if by magic, the patterns around the room change to your command.
+
+You&apos;re growing increasingly aware of the pain in your left leg.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0x272700" />
+    </children>
+  </item>
+  <item nodeId="node-0x272700">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Argot Lounge
+Blah blah. The wall is displaying a antigravity-winter climate hologram, the ceiling above you is displaying a norse mythos-currency hologram, and the floor at your feet is displaying a heliography-judicial opinion diorama.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="74">YES</temporary>
+    <children>
+      <child nodeId="node-0x272770" />
+    </children>
+  </item>
+  <item nodeId="node-0x272770">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Argot Lounge
+Blah blah. The wall is displaying Three, the ceiling above you is displaying Four, and the floor at your feet is displaying Five.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="45">YES</temporary>
+    <children>
+      <child nodeId="node-0x2727e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2727e0">
+    <command xml:space="preserve">change it</command>
+    <result xml:space="preserve">As if by magic, the patterns around the room change to your command.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="45">YES</temporary>
+    <children>
+      <child nodeId="node-0x272850" />
+    </children>
+  </item>
+  <item nodeId="node-0x272850">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Argot Lounge
+Blah blah. The wall is displaying Two, the ceiling above you is displaying One, and the floor at your feet is displaying Two.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="45">YES</temporary>
+    <children>
+      <child nodeId="node-0x2728c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2728c0">
+    <command xml:space="preserve">change it</command>
+    <result xml:space="preserve">As if by magic, the patterns around the room change to your command.
+
+The pain in your leg is excruciating. You&apos;re starting to feel sick. You&apos;re going to need medical help soon.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="45">YES</temporary>
+    <children>
+      <child nodeId="node-0x272930" />
+    </children>
+  </item>
+  <item nodeId="node-0x272930">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Argot Lounge
+Blah blah. The wall is displaying Two, the ceiling above you is displaying Four, and the floor at your feet is displaying One.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="44">YES</temporary>
+  </item>
+  <item nodeId="node-0x2729a0">
+    <command xml:space="preserve">SCENES</command>
+    <result xml:space="preserve">Scene &apos;Entire Game&apos; playing (for 0 mins now)
+Scene &apos;Armistice Day&apos; playing (for 0 mins now)
+(Scene monitoring now switched on. Type &quot;scenes off&quot; to switch it off again.)
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="93">YES</temporary>
+    <children>
+      <child nodeId="node-0x272a10" />
+    </children>
+  </item>
+  <item nodeId="node-0x272a10">
+    <command xml:space="preserve">xyzzq</command>
+    <result xml:space="preserve">Argot Lounge
+Blah blah. The wall is displaying a crucifixion-crucifixion diorama, the ceiling above you is displaying a crucifixion-crucifixion diorama, and the floor at your feet is displaying a crucifixion-crucifixion diorama.
+
+[Scene &apos;Alexandria Day One&apos; begins]
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="92">YES</temporary>
+    <children>
+      <child nodeId="node-0x272a80" />
+    </children>
+  </item>
+  <item nodeId="node-0x272a80">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Argot Lounge
+Blah blah. The wall is displaying a competitive chess-classical leitmotif corpus, the ceiling above you is displaying a antigravity-grain price diorama, and the floor at your feet is displaying a japanese fashion-classical leitmotif diorama.
+
+You feel a pain in your left leg.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="81">YES</temporary>
+  </item>
+  <item nodeId="node-0x272af0">
+    <command xml:space="preserve">xyzzy</command>
+    <result xml:space="preserve">Departure Lounge
+People surround you; hurried, frayed, fast. Glass and steel beamwork cross in sweeping orbits around a large curved window that looks out over a greenbelted cityscape. The smell of hastily-fried foods mixed with heavy coffees. Black leather chairs embossed with friendly ORBGROUP logos line the main thoroughfare; white tile floors cut by vanishing-point aluminum slices extend on to the west and east until they curve out of sight. To your south is Gate Six.
+
+There is a suited man here, busy on his phone.
+
+-- (LOG) $82 $2 -- (CIA) $89 $9 -- (YOU) $49 $-1 -- 
+Symbol ----- Name ------ Price | +/-
+LOG | LogoS Corporation | $82  | $2
+CIA | Clayton Info.Acq. | $89  | $9
+YOU | You, Incorporated | $49  | $-1
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="69">NO</temporary>
+    <children>
+      <child nodeId="node-0x272b60" />
+    </children>
+  </item>
+  <item nodeId="node-0x272b60">
+    <command xml:space="preserve">xyzzy</command>
+    <result xml:space="preserve">Restroom
+You look around the tiny restroom. It was made for the comfort of one person; the room is set out in dark marbles with Chinoise accent. The motion detector has already triggered a dim recessed panel of lighting, and you can see the basics of the room in fuzzy relief around you.
+
+You see your reflection in the mirror.
+
+You can also see a sink and a toilet here.
+
+-- (LOG) $82 $0 -- (CIA) $89 $0 -- (YOU) $49 $0 -- 
+Symbol ----- Name ------ Price | +/-
+LOG | LogoS Corporation | $82  | $0
+CIA | Clayton Info.Acq. | $89  | $0
+YOU | You, Incorporated | $49  | $0
+
+&gt;</result>
+    <annotation xml:space="preserve">shortcut to gunfight</annotation>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3069">NO</temporary>
+    <children>
+      <child nodeId="node-0x272bd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x272bd0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You unlock the door and head back out to the food court.
+
+Food Court
+Things seem quiet in the food court now - maybe everyone has boarded for Gate Six.
+
+The man drinking coffee has moved to another table.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="3067">YES</temporary>
+    <children>
+      <child nodeId="node-0x2737a0" />
+      <child nodeId="node-0x272c40" />
+    </children>
+  </item>
+  <item nodeId="node-0x272c40">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x272cb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x272cb0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You hear a click from behind you.
+&quot;Don&apos;t move&quot;, a voice says from the food court. &quot;United States Treasury Department.&quot;
+You freeze up - not sure if you should run or stay.
+&quot;That&apos;s good&quot;, the voice says behind you, finally coming around to face you. It is the man from the food court, now brandishing a compact pistol, and wearing a badge and earpiece. &quot;We know you, but you don&apos;t know me. I&apos;m Joseph Weaver, Financial Crimes Division.&quot; Weaver looks you in the eyes, but you find it hard not to stare at the little black pistol he points right at you.
+
+Before he can say any more, an alarm sounds throughout the concourse.
+
+&quot;What the hell -&quot; Weaver starts, but is interrupted by gunshots down the concourse to the east - followed closely behind by screams as travelers in the departure lounge panic at the shots.
+
+You break from him and run south to the departure lounge!
+
+You can see Weaver catching up with you! You had better get out of here.
+
+Departure Lounge West
+The recent gunfire has transformed the departure lounge into a river of panic - travelers are diving for cover, rapidly yelling to emergency services on mobile phones, or trying to find ways out of the terminal without exposing themselves to further harm. The scene is chaos - every traveler is out for themselves.You can see the rest of the departure lounge concourse to the east, and Gate Five is to the south.
+
+(type SURRENDER to give up) &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x272d20" />
+    </children>
+  </item>
+  <item nodeId="node-0x272d20">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You bolt down the departure concourse, headed east!
+
+&quot;Over here!&quot; shouts a voice from down the concourse. &quot;Did you get my note?&quot;
+&quot;Where are you?&quot; you shout, taking cover behind a planter.
+&quot;Right here&quot;, the voice says, the speaker appearing behind a very frightened-looking ORBGROUP gate agent. You notice the agent has a gun to their head, and the mysterious stranger is holding it, keeping the agent in a body-shield grip in front of him.
+&quot;What the hell -&quot; you start to ask, but duck back down as Weaver approaches.
+&quot;Trying to survive,&quot; the man says. &quot;Now it&apos;s your turn. Grab that man in the suit in the corner and let&apos;s go. Catch.&quot; He tosses something in the air - it slides on the tile toward you, stopping at your feet. It is a nickel-plated handgun.
+&quot;My name is Clayton, by the way. Let&apos;s go.&quot;
+
+Departure Lounge
+The frenetic pace, the hurried slew of bodies, the order and linearity have all devolved at the sound of gunfire: the main departure lounge is now a huddle of frightened bodies, spilled coffee, and abandoned luggage. The concourse proceeds west and east, and Gate Six is to your south.
+
+Clayton is here, holding the ORBGROUP agent hostage.
+
+You see a handgun on the ground.
+
+The suited man huddles for cover nearby.
+
+(type SURRENDER to give up) &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x272d90" />
+    </children>
+  </item>
+  <item nodeId="node-0x272d90">
+    <command xml:space="preserve">take handgun</command>
+    <result xml:space="preserve">You reach down and grab the handgun. It is heavy and cold.
+&quot;Good! Grab that man - we&apos;re getting out of here!&quot; Clayton yells.
+The suited man looks at you with pleading eyes. &quot;Don&apos;t&quot;, he mouths silently to you.
+
+A crash from the east concourse knocks you to the floor - smoke belches in from the east, and flickering flashlights are cutting bright planes in the oncoming cloud. You count five of them, and they are advancing fast.
+
+&quot;Shit,&quot; Clayton says. &quot;I was afraid of that. Treasury sent a SWAT team.&quot; You can see him tighten the grip on his hostage. &quot;You get your hostage and you get ready to move! We do this together or we&apos;re both dead.&quot;
+
+(SURRENDER to give up, SHOOT to shoot someone) &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x272e00" />
+    </children>
+  </item>
+  <item nodeId="node-0x272e00">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">&quot;Hey!&quot; Clayton yells as you run south. &quot;Hey, get back here, goddamn-&quot;A hail of gunfire drowns his words out.
+
+Gate 6
+Gate Six is absolutely empty of life. No agent, no travelers - nothing. The panic has driven travelers to the far east and far west gates, leaving this middle gate barren.Gate Five is to the west, Gate Seven to the east, and the departure lounge is to the north. The jetdoor blocks access to a jet bridge to the south.
+
+You can see a jetdoor and a pass reader (empty) here.
+
+(SURRENDER to give up, SHOOT to shoot someone) &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x272e70" />
+    </children>
+  </item>
+  <item nodeId="node-0x272e70">
+    <command xml:space="preserve">put pass in reader</command>
+    <result xml:space="preserve">(the boarding pass in the pass reader)
+The reader sucks down the pass, and the jetdoor in front of you unseals with a spout of gas from the depressurization rig. Now open, the jetdoor access light is green. You&apos;re cleared to enter the jetbridge to your south.
+
+(SURRENDER to give up, SHOOT to shoot someone) &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x272ee0" />
+    </children>
+  </item>
+  <item nodeId="node-0x272ee0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You make a break for the open jetdoor!
+You hear the man north of you, yelling! &quot;Come back, damn you! Don&apos;t get on that -&quot;His words are drowned out in a burst of automatic gunfire.
+You keep your head down and run...
+
+You make it into the jetbridge, breathless - but Weaver is still coming for you. You look around you...
+
+Jetbridge
+You can see a jetdoor and a pressurization panel (closed) here.
+
+There is a rapid, ripping sound of gunfire from the east concourse, followed by ominous quiet. Calls for a medic and shouts of cleared sectors eventually fill in the silence. The SWAT team must have taken Clayton down.
+ You know that they&apos;re coming for you next.
+
+(SURRENDER to give up, SHOOT to shoot someone) &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x272f50" />
+    </children>
+  </item>
+  <item nodeId="node-0x272f50">
+    <command xml:space="preserve">close jetdoor</command>
+    <result xml:space="preserve">You close the jetdoor.
+
+(SURRENDER to give up, SHOOT to shoot someone) &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x272fc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x272fc0">
+    <command xml:space="preserve">open panel</command>
+    <result xml:space="preserve">You open the pressurization panel, revealing an emergency pressure handle.
+
+(SURRENDER to give up, SHOOT to shoot someone) &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x273030" />
+    </children>
+  </item>
+  <item nodeId="node-0x273030">
+    <command xml:space="preserve">pull handle</command>
+    <result xml:space="preserve">You yank at the handle...
+
+The whole thing comes off in your hand; you slam back against the wall as a yellow light flares from above and a blast of escaping gas rushes down the jetbridge corridor.
+ The light turns red - you see a wheel mechanism inside the jetdoor turn and lock into place.
+ You have sealed the jetdoor closed. Gunshots ring out from the airport side of the door, but they are barely audible.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x2730a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2730a0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Jetbridge
+You can see a jetdoor and a pressurization panel (empty) here.
+
+There is a clatter at the jetdoor, and voices yelling for you to surrender - but they are unable to get the pressurized door open.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x273110" />
+    </children>
+  </item>
+  <item nodeId="node-0x273110">
+    <command xml:space="preserve">look at jetdoor</command>
+    <result xml:space="preserve">The jetdoor is a heavy-looking spinelock affair, with a sterile-white depressurization rig attached to the side. It is closed, a blood-red light pulsing slowly above the door frame.
+
+Weaver slams up against the jetdoor, cursing out loud, trying to get through, but the jetdoor has pressurized and locked down.
+
+You are safe for now.
+
+You drop the handle to the floor and take a breath.
+A meek voice to your south calls out: &quot;Hello?
+
+Jetbridge
+The jetbridge now feels like a portal to another world, the solid slab of the jetdoor an absolute barrier between the near-death of the concourse and your own fragile body. Sounds from the concourse are muffled, far-off, and unable to get to you.
+ To your south, you see the open door to the ORBFLIGHT aircraft, waiting for you to board.
+
+You can see a jetdoor and a pressurization panel (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x273180" />
+    </children>
+  </item>
+  <item nodeId="node-0x273180">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You walk down the jetbridge, into the cabin of the waiting aircraft.
+
+You try, as covertly as you can, to drop the handgun in the jetbridge as you board.
+The ORBFLIGHT crew, waiting in the cabin, welcomes you aboard, acting as if they hadn&apos;t realized - or were simply kind enough to ignore - that you had run through a monsoon of bullets to get here.
+The attendant shows you to your harness module and makes the usual motions to instruct you on emergency release procedures in the case of zero-atmosphere depressurization, gimbal lock, and solar flares.
+At last, she drops the latest Zink in your lap and smiles, checking that your harness is buckled and that you&apos;re ready to head up.
+
+ORBFLIGHT Cabin
+You are seated in a deep leather reclining seat, looking out a fist-sized porthole to the world outside. The ORBFLIGHT cabin is a small, leather and granite-style paneled hemisphere with a handful of similar seats, each one containing a similarly disconnected, quiet traveler. The ceiling of the cabin is a stylized celestial map.
+The cabin exits to the outside, east.
+
+The ORBGROUP flight attendant walks the cabin, making sure things are in order.
+
+A complicated force harness keeps you buckled into your seat.
+
+A PAXET display hinges out from your seat, waiting for a command.
+
+The latest Zink magazine is here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x2731f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2731f0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+You are seated in a deep leather reclining seat, looking out a fist-sized porthole to the world outside. The ORBFLIGHT cabin is a small, leather and granite-style paneled hemisphere with a handful of similar seats, each one containing a similarly disconnected, quiet traveler. The ceiling of the cabin is a stylized celestial map.
+The cabin exits to the outside, east.
+
+The ORBGROUP flight attendant walks the cabin, making sure things are in order.
+
+A complicated force harness keeps you buckled into your seat.
+
+A PAXET display hinges out from your seat, waiting for a command.
+
+The latest Zink magazine is here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x273260" />
+    </children>
+  </item>
+  <item nodeId="node-0x273260">
+    <command xml:space="preserve">look at zink</command>
+    <result xml:space="preserve">You see nothing special about the Zink magazine.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x2732d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2732d0">
+    <command xml:space="preserve">look at display</command>
+    <result xml:space="preserve">The PAXET display reads INSERT LOGOSTICK and appears ready to operate.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x273340" />
+    </children>
+  </item>
+  <item nodeId="node-0x273340">
+    <command xml:space="preserve">look at harness</command>
+    <result xml:space="preserve">The harness is a remote-release ORBGROUP-standard five-point acceleration model, designed to keep you safe and secure while the ORBGROUP flight makes initial ascent and final descent.
+The harness is secure around your shoulders, keeping you tight to the seat.A light on the buckle glows red, indicating it has been remotely locked.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x2733b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2733b0">
+    <command xml:space="preserve">look at porthole</command>
+    <result xml:space="preserve">NO ON-GROUND DESCRIPTION
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x273420" />
+    </children>
+  </item>
+  <item nodeId="node-0x273420">
+    <command xml:space="preserve">look at map</command>
+    <result xml:space="preserve">NO ON-GROUND DESCRIPTION
+
+A low rumbling from somewhere outside draws your attention to the south windows of the departure lounge. You watch through the glass, and through and a haze of precautionary fire retardant glowing red from emergency lighting.
+
+ A large mesh hoop is being drawn up to a forty-five degree angle out on the tarmac.
+
+ The rumble grows, expands, splitting the air, layer after layer of fracturing, crackling screams. You see some of the travelers opening their mouths, stuffing their earphones deeper in their ears.
+
+ The windows flex, pulse, vibrate. The sound grows unbearably loud - in an instant, there is a final whipcrack and the hoop is flexed to bursting, cradling a steaming, charred dart the size of a school bus.
+
+ A voice comes over the lounge intercom: &quot;Whitmore Executive announces the arrival of flight 2A2, with service to Alexandria, Virginia, United States. This flight is now boarding at Gate Six.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x273490" />
+    </children>
+  </item>
+  <item nodeId="node-0x273490">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+You are seated in a deep leather reclining seat, looking out a fist-sized porthole to the world outside. The ORBFLIGHT cabin is a small, leather and granite-style paneled hemisphere with a handful of similar seats, each one containing a similarly disconnected, quiet traveler. The ceiling of the cabin is a stylized celestial map.
+The cabin exits to the outside, east.
+
+The ORBGROUP flight attendant walks the cabin, making sure things are in order.
+
+A complicated force harness keeps you buckled into your seat.
+
+A PAXET display hinges out from your seat, waiting for a command.
+
+The latest Zink magazine is here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x273500" />
+    </children>
+  </item>
+  <item nodeId="node-0x273500">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+You are seated in a deep leather reclining seat, looking out a fist-sized porthole to the world outside. The ORBFLIGHT cabin is a small, leather and granite-style paneled hemisphere with a handful of similar seats, each one containing a similarly disconnected, quiet traveler. The ceiling of the cabin is a stylized celestial map.
+The cabin exits to the outside, east.
+
+The ORBGROUP flight attendant walks the cabin, making sure things are in order.
+
+A complicated force harness keeps you buckled into your seat.
+
+A PAXET display hinges out from your seat, waiting for a command.
+
+The latest Zink magazine is here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x273570" />
+    </children>
+  </item>
+  <item nodeId="node-0x273570">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+You are seated in a deep leather reclining seat, looking out a fist-sized porthole to the world outside. The ORBFLIGHT cabin is a small, leather and granite-style paneled hemisphere with a handful of similar seats, each one containing a similarly disconnected, quiet traveler. The ceiling of the cabin is a stylized celestial map.
+The cabin exits to the outside, east.
+
+The ORBGROUP flight attendant walks the cabin, making sure things are in order.
+
+A complicated force harness keeps you buckled into your seat.
+
+A PAXET display hinges out from your seat, waiting for a command.
+
+The latest Zink magazine is here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x2735e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2735e0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+You are seated in a deep leather reclining seat, looking out a fist-sized porthole to the world outside. The ORBFLIGHT cabin is a small, leather and granite-style paneled hemisphere with a handful of similar seats, each one containing a similarly disconnected, quiet traveler. The ceiling of the cabin is a stylized celestial map.
+The cabin exits to the outside, east.
+
+The ORBGROUP flight attendant walks the cabin, making sure things are in order.
+
+A complicated force harness keeps you buckled into your seat.
+
+A PAXET display hinges out from your seat, waiting for a command.
+
+The latest Zink magazine is here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x273650" />
+    </children>
+  </item>
+  <item nodeId="node-0x273650">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+You are seated in a deep leather reclining seat, looking out a fist-sized porthole to the world outside. The ORBFLIGHT cabin is a small, leather and granite-style paneled hemisphere with a handful of similar seats, each one containing a similarly disconnected, quiet traveler. The ceiling of the cabin is a stylized celestial map.
+The cabin exits to the outside, east.
+
+The ORBGROUP flight attendant walks the cabin, making sure things are in order.
+
+A complicated force harness keeps you buckled into your seat.
+
+A PAXET display hinges out from your seat, waiting for a command.
+
+The latest Zink magazine is here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x2736c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2736c0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+You are seated in a deep leather reclining seat, looking out a fist-sized porthole to the world outside. The ORBFLIGHT cabin is a small, leather and granite-style paneled hemisphere with a handful of similar seats, each one containing a similarly disconnected, quiet traveler. The ceiling of the cabin is a stylized celestial map.
+The cabin exits to the outside, east.
+
+The ORBGROUP flight attendant walks the cabin, making sure things are in order.
+
+A complicated force harness keeps you buckled into your seat.
+
+A PAXET display hinges out from your seat, waiting for a command.
+
+The latest Zink magazine is here.
+
+You hear the overhead intercom go on. A curt, edged voice comes on the line.
+&quot;Welcome to ORBGROUP flight TWO-ALPHA-TWO, service from Johannesburg, South Africa to Alexandria, Virginia in the United States. We&apos;re uh - just coming off a bit of trouble in the terminal, but that&apos;s not our concern at the moment. ORBGROUP has told us that our safest option right now is to hook up and get skyborne. Your ORBGROUP in-can flight officers Trieste and Mercer here, letting you know today&apos;s orbital operators are on loan from Conica, who reminds you that space is a journey, not a destination.&quot;
+You can hear quiet conversation in the cockpit. Finally the intercom comes back on.
+&quot;We&apos;re expecting to hook up in about ten minutes, at which point we&apos;re looking at a five-minute trip up, a fifteen-minute float, and ten minutes burn to land at Alexandria, putting you on the ground at just around two-thirty AM, Eastern time.&quot;
+&quot;Conica is indicating we&apos;re eight minutes from first hookup burn, so please stay in those harnesses and we&apos;ll get you weightless just as soon as we can. Thanks for coming along with us here at ORBGROUP.&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3054">YES</temporary>
+    <children>
+      <child nodeId="node-0x273730" />
+    </children>
+  </item>
+  <item nodeId="node-0x273730">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">ORBFLIGHT Cabin
+You are seated in a deep leather reclining seat, looking out a fist-sized porthole to the world outside. The ORBFLIGHT cabin is a small, leather and granite-style paneled hemisphere with a handful of similar seats, each one containing a similarly disconnected, quiet traveler. The ceiling of the cabin is a stylized celestial map.
+The cabin exits to the outside, east.
+
+The ORBGROUP flight attendant walks the cabin, making sure things are in order.
+
+A complicated force harness keeps you buckled into your seat.
+
+A PAXET display hinges out from your seat, waiting for a command.
+
+The latest Zink magazine is here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3053">YES</temporary>
+  </item>
+  <item nodeId="node-0x2737a0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You hear a click from behind you.
+&quot;Don&apos;t move&quot;, a voice says from the food court. &quot;United States Treasury Department.&quot;
+You freeze up - not sure if you should run or stay.
+&quot;That&apos;s good&quot;, the voice says behind you, finally coming around to face you. It is the man from the food court, now brandishing a compact pistol, and wearing a badge and earpiece. &quot;We know you, but you don&apos;t know me. I&apos;m Joseph Weaver, Financial Crimes Division.&quot; Weaver looks you in the eyes, but you find it hard not to stare at the little black pistol he points right at you.
+
+Before he can say any more, an alarm sounds throughout the concourse.
+
+&quot;What the hell -&quot; Weaver starts, but is interrupted by gunshots down the concourse to the east - followed closely behind by screams as travelers in the departure lounge panic at the shots.
+
+You break from him and run south to the departure lounge!
+
+You can see Weaver catching up with you! You had better get out of here.
+
+Departure Lounge West
+The recent gunfire has transformed the departure lounge into a river of panic - travelers are diving for cover, rapidly yelling to emergency services on mobile phones, or trying to find ways out of the terminal without exposing themselves to further harm. The scene is chaos - every traveler is out for themselves.You can see the rest of the departure lounge concourse to the east, and Gate Five is to the south.
+
+(type SURRENDER to give up) &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3067">YES</temporary>
+    <children>
+      <child nodeId="node-0x273810" />
+    </children>
+  </item>
+  <item nodeId="node-0x273810">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You bolt down the departure concourse, headed east!
+
+&quot;Over here!&quot; shouts a voice from down the concourse. &quot;Did you get my note?&quot;
+&quot;Where are you?&quot; you shout, taking cover behind a planter.
+&quot;Right here&quot;, the voice says, the speaker appearing behind a very frightened-looking ORBGROUP gate agent. You notice the agent has a gun to their head, and the mysterious stranger is holding it, keeping the agent in a body-shield grip in front of him.
+&quot;What the hell -&quot; you start to ask, but duck back down as Weaver approaches.
+&quot;Trying to survive,&quot; the man says. &quot;Now it&apos;s your turn. Grab that man in the suit in the corner and let&apos;s go. Catch.&quot; He tosses something in the air - it slides on the tile toward you, stopping at your feet. It is a nickel-plated handgun.
+&quot;My name is Clayton, by the way. Let&apos;s go.&quot;
+
+Departure Lounge
+The frenetic pace, the hurried slew of bodies, the order and linearity have all devolved at the sound of gunfire: the main departure lounge is now a huddle of frightened bodies, spilled coffee, and abandoned luggage. The concourse proceeds west and east, and Gate Six is to your south.
+
+Clayton is here, holding the ORBGROUP agent hostage.
+
+You see a handgun on the ground.
+
+The suited man huddles for cover nearby.
+
+(type SURRENDER to give up) &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3067">YES</temporary>
+    <children>
+      <child nodeId="node-0x273880" />
+    </children>
+  </item>
+  <item nodeId="node-0x273880">
+    <command xml:space="preserve">take handgun</command>
+    <result xml:space="preserve">You reach down and grab the handgun. It is heavy and cold.
+&quot;Good! Grab that man - we&apos;re getting out of here!&quot; Clayton yells.
+The suited man looks at you with pleading eyes. &quot;Don&apos;t&quot;, he mouths silently to you.
+
+A crash from the east concourse knocks you to the floor - smoke belches in from the east, and flickering flashlights are cutting bright planes in the oncoming cloud. You count five of them, and they are advancing fast.
+
+&quot;Shit,&quot; Clayton says. &quot;I was afraid of that. Treasury sent a SWAT team.&quot; You can see him tighten the grip on his hostage. &quot;You get your hostage and you get ready to move! We do this together or we&apos;re both dead.&quot;
+
+(SURRENDER to give up, SHOOT to shoot someone) &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3067">YES</temporary>
+    <children>
+      <child nodeId="node-0x2738f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2738f0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">&quot;Stop! Grab that hostage! That SWAT team will take you down in a heartbeat if you don&apos;t!&quot; Clayton yells.
+
+(SURRENDER to give up, SHOOT to shoot someone) &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3067">YES</temporary>
+    <children>
+      <child nodeId="node-0x273960" />
+    </children>
+  </item>
+  <item nodeId="node-0x273960">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">&quot;Stop! Grab that hostage! That SWAT team will take you down in a heartbeat if you don&apos;t!&quot; Clayton yells.
+
+Weaver finds you! He points his gun at you! &quot;Drop to your knees! Get your hands behind your head!&quot;
+Clayton turns his head to look at the man. &quot;Weaver,&quot; he hisses. He turns toward you. &quot;Fuck that guy! He hasn&apos;t got the guts to do anything.&quot;
+
+(SURRENDER to give up, SHOOT to shoot someone) &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3067">YES</temporary>
+    <children>
+      <child nodeId="node-0x2739d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2739d0">
+    <command xml:space="preserve">shoot hostage</command>
+    <result xml:space="preserve">You put the man in your sights and squeeze the trigger.
+
+
+*** BANG ***
+
+You see the man collapse in a pool of blood on the ground.
+Clayton looks at you, horrified. At last, he appears able to speak. &quot;That - is fucking - wonderful. You&apos;re on your own, you fuck-up.&quot;
+
+Weaver steadies his gun on you. &quot;You&apos;re not getting out of here like this.&quot;
+
+Clayton takes his hostage east.
+
+(SURRENDER to give up, SHOOT to shoot someone) &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3067">YES</temporary>
+    <children>
+      <child nodeId="node-0x273a40" />
+    </children>
+  </item>
+  <item nodeId="node-0x273a40">
+    <command xml:space="preserve">shoot weaver</command>
+    <result xml:space="preserve">You raise your handgun and lay the sights over Weaver.
+He takes cover!
+
+*** BANG ***
+The bullet tears a chunk out of the tile near his head, missing him.
+
+Weaver steadies his gun on you. &quot;You&apos;re not getting out of here like this.&quot;
+
+You hear the hammer of Weaver&apos;s gun click back. &quot;Suspect! Do not try to escape! Get down on your knees and put your hands behind your head! Comply!&quot;
+
+(SURRENDER to give up, SHOOT to shoot someone) &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3067">YES</temporary>
+    <children>
+      <child nodeId="node-0x273ab0" />
+    </children>
+  </item>
+  <item nodeId="node-0x273ab0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You follow Clayton to the east departure lounge.
+You are confronted by a SWAT team staring you down from the east corner of the building where they have breached a ragged hole through the sculpture.
+
+Departure Lounge East
+The east lounge is a haze of chalky white smoke that chokes out your breathing and burns your eyes. At the end of the concourse you can barely see the droplet sculpture, split in half around a ragged, burnt hole drilled violently through the acrylic. Travelers here are lying flat on their stomachs, hands over their ears, waiting for the shots to stop. The rest of the lounge is back to your west. To your south is Gate Seven. A security monitor station is to the north.
+
+Clayton is here, holding the ORBGROUP agent hostage.
+
+A SWAT team has their guns sighted right on you!
+
+A departure board hangs from the ceiling. 
+
+&quot;Target has no collateral&quot;, the SWAT team leader yells. You realize you have no hostage - nothing to protect you - and a gun in your hand! &quot;Take him down!&quot;
+
+There is a rapid, ripping sound of gunfire from the east concourse, followed by ominous quiet. Calls for a medic and shouts of cleared sectors eventually fill in the silence. The SWAT team must have taken Clayton down.
+ You know that they&apos;re coming for you next.
+
+You hear a series of loud bangs as the SWAT team fires on you. The wind rushes out of your lungs as you crumple to the ground.
+
+
+
+    *** You have been shot to death. ***
+
+
+
+Would you like to RESTART, RESTORE a saved game or QUIT?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3067">YES</temporary>
+    <children>
+      <child nodeId="node-0x273b20" />
+    </children>
+  </item>
+  <item nodeId="node-0x273b20">
+    <command xml:space="preserve">RESTART</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3066">YES</temporary>
+  </item>
+</Skein>
